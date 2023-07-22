@@ -27,7 +27,7 @@ if __name__ == '__main__':
     # Hint, you can use math.pi
     area = math.pi
     # Write the area of your circle using the turtle .write() method
-    t.write(arg="area = " + str(area), move=True, align='left', font=('Arial',8,'normal'))
+    t.write(arg= "area =" + str(area), move=True, align='left', font=('Comic Sans',8,'normal'))
 
     # Hide your turtle
     t.hideturtle()
